@@ -1,2 +1,6 @@
 # piBrick
-piBrick Pocket-CM5 is a smartphone-sized handheld PC powered by the Raspberry Pi CM5, featuring a 3.91" AMOLED touch display and a QWERTY keyboard+trackpad from BBQ20.
+piBrick is Open Source Hardware project(s).
+
+## piBrick Pocket-CM5
+**piBrick Pocket-CM5** is a smartphone-sized handheld PC powered by the **Raspberry Pi CM5**, featuring a 3.91" AMOLED touch display and a QWERTY keyboard+trackpad from **BBQ20**.
+[Go to Pocket-CM5 Detail](Pocket-CM5/README.md)
