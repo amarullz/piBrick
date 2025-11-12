@@ -2,7 +2,7 @@
 
 This pocket computer is compact enough for mobile use, yet powerful and versatile for everyday computing. With its wide range of ports, it can be connected to a desktop setup and used as a full desktop computer.
 
-![3D_pibrick-pocket-cm5_2025-11-11.png](https://image.easyeda.com/oshwhub/pullImage/02d73aa0625249bda34067aa7e459123.png)
+![piBrick Pocket-CM5 3D Render](docs/images/piBrick-3d-showcase.png)
 
 **piBrick Pocket-CM5** is an Open Source Hardware.
 
@@ -82,5 +82,5 @@ The main PCB and Flex-PCB are easily reproducible at JLCPCB. You can open the pr
 
 # Links
 - My Github: https://github.com/amarullz/
-- Kernels & Tools: https://github.com/amarullz/piBrick_Display
+- piBrick Github: https://github.com/amarullz/piBrick
 - OSHWLab: https://oshwlab.com/amarullz/pibrick-pocketcm5
