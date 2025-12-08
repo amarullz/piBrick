@@ -86,3 +86,6 @@ The main PCB and Flex-PCB are easily reproducible at JLCPCB. You can open the pr
 - My Github: https://github.com/amarullz/
 - piBrick Github: https://github.com/amarullz/piBrick
 - OSHWLab: https://oshwlab.com/amarullz/pibrick-pocketcm5
+
+# Thanks
+Thanks **OSHWLAB** Starts to make this project possible, **EasyEDA Pro** is rocks, and **JLCPCB** integration with EasyEda is awesome.
