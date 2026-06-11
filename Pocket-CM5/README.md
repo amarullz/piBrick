@@ -77,6 +77,8 @@ This device was designed for manufacturing at JLCPCB, including component select
 - 💝 Donation: https://paypal.me/amarullz
 
 # Resources
+- **Linux Driver**
+  - ⚓ Display & Touchscreen (On LShaf Repository): https://github.com/lshaf/pibrick-driver
 - **Firmwares**
   - ⌨️ Keyboard Firmware: https://github.com/amarullz/pibrick_pocketcm5_keyboard
 - **3D**
