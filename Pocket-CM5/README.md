@@ -52,6 +52,18 @@ This device was designed for manufacturing at JLCPCB, including component select
 - User RGB LED, and Keyboard Layout RGB Indicator
 - Body: **Open Source 3D printable frame & casing**
 
+# Driver Installation
+
+You need to download driver source and install it before Display can be use.
+
+Run this on terminal/ssh:
+```bash
+cd ~
+git clone https://github.com/amarullz/pibrick-drivers.git
+cd pibrick-drivers
+bash install.sh
+```
+
 
 # Additional Peripherals
 - **Mandatory**
@@ -78,7 +90,7 @@ This device was designed for manufacturing at JLCPCB, including component select
 
 # Resources
 - **Linux Driver**
-  - ⚓ Display & Touchscreen (On LShaf Repository): https://github.com/lshaf/pibrick-driver
+  - ⚓ Display, Touchscreen, Power: https://github.com/amarullz/pibrick-drivers
 - **Firmwares**
   - ⌨️ Keyboard Firmware: https://github.com/amarullz/pibrick_pocketcm5_keyboard
 - **3D**
