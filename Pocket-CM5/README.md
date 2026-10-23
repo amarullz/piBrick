@@ -17,6 +17,21 @@ There are many possible use cases for this device. It’s a building block — y
 
 This device was designed for manufacturing at JLCPCB, including component selection, design rules, and overall manufacturability. Anyone can easily order and assemble it through JLCPCB.
 
+
+# 🧭 Quick Start Guide
+- Read **📑 [Quick Start Guide PDF](piBrick-Quick-Start-Guide.pdf)** for ⚙ Quick Driver Installation Guide, 🧩 Assembly Guide, 💾 First Boot and Driver Installation and 🔗 piBrick Links and Resources.
+
+# 🛠️ Driver Installation
+You need to download driver source and install it before Display can be use.
+
+Run this on terminal/ssh:
+```bash
+cd ~
+git clone https://github.com/amarullz/pibrick-drivers.git
+cd pibrick-drivers
+bash install.sh
+```
+
 ![piBrick Pocket-CM5 Photo](docs/images/pibrick--map.png)
 
 # Specifications:
@@ -51,18 +66,6 @@ This device was designed for manufacturing at JLCPCB, including component select
   - GPIO Extension Connector
 - User RGB LED, and Keyboard Layout RGB Indicator
 - Body: **Open Source 3D printable frame & casing**
-
-# Driver Installation
-
-You need to download driver source and install it before Display can be use.
-
-Run this on terminal/ssh:
-```bash
-cd ~
-git clone https://github.com/amarullz/pibrick-drivers.git
-cd pibrick-drivers
-bash install.sh
-```
 
 
 # Additional Peripherals
