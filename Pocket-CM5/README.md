@@ -19,7 +19,8 @@ This device was designed for manufacturing at JLCPCB, including component select
 
 
 # 🧭 Quick Start Guide
-- Read **📑 [Quick Start Guide PDF](piBrick-Quick-Start-Guide.pdf)** for ⚙ Quick Driver Installation Guide, 🧩 Assembly Guide, 💾 First Boot and Driver Installation and 🔗 piBrick Links and Resources.
+- Visit **📚 [piBrick Wiki](https://github.com/amarullz/piBrick/wiki/Quick-Start-Guide)**
+- Read **📑 [Quick Start Guide Wiki](https://github.com/amarullz/piBrick/wiki/Quick-Start-Guide)** for ⚙ Quick Driver Installation Guide, 🧩 Assembly Guide, 💾 First Boot and Driver Installation and 🔗 piBrick Links and Resources.
 
 # 🛠️ Driver Installation
 You need to download driver source and install it before Display can be use.
