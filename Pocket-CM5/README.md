@@ -84,6 +84,7 @@ bash install.sh
   - NVMe SSD (size **2230** or **2242**)
 
 # Links
+- 🌐 piBrick Website: https://pibrick.net/
 - 🛟 piBrick Discord: https://discord.gg/e9qUdJ4aVr
 - 🔬 OSHWLab (PCB and Schematic): https://oshwlab.com/amarullz/pibrick-pocketcm5
 - 🤖 My Github: https://github.com/amarullz/
@@ -91,6 +92,9 @@ bash install.sh
 - 📺 Youtube: https://www.youtube.com/@amarullz
 - 📸 Instagram: https://www.instagram.com/amarullz/
 - 💝 Donation: https://paypal.me/amarullz
+
+# Tools
+- 🔌 Serial Shell: https://serial.pibrick.net/
 
 # Resources
 - **Linux Driver**
